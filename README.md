@@ -56,6 +56,9 @@ The app features:
 
 Users can simply input a message, click **“Classify Message”**, and instantly see whether it’s **Spam 🚫** or **Ham ✅**.
 
+🔗 Try it here: [Spam Message Classifier](https://spam-message-classifier-kay.streamlit.app/)
+
+
 ---
 
 ## ✅ Conclusion
